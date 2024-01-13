@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkmynewestweb"]=self["webpackChunkmynewestweb"]||[]).push([[936],{3936:function(n,e,t){t.r(e),t.d(e,{default:function(){return l}});var u=t(3396);const r={class:"about"},s=(0,u._)("h1",null,"Admin",-1),c=[s];function a(n,e){return(0,u.wg)(),(0,u.iD)("div",r,c)}var i=t(89);const w={},f=(0,i.Z)(w,[["render",a]]);var l=f}}]);
-//# sourceMappingURL=936.1f84629f.js.map
